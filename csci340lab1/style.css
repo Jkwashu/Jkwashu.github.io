@@ -4,7 +4,6 @@ html, body {
     flex-direction: column;
     font-weight: 300;
     line-height: 1.5;
-    font-size-adjust: 14px;
   }
 
   body {
@@ -12,8 +11,11 @@ html, body {
     background-image: url('https://free-images.com/lg/7038/sky_gradient_nature_color.jpg');
     background-position: center top;
     background-size: cover;
-    font-size: 14px;
     margin: 0;
+  }
+
+  p {
+    font-size: 14px
   }
 
   a {
@@ -48,10 +50,12 @@ html, body {
     display: inline;
     margin: 0;
     padding: 0 10px;
+    align-content: center;
   }
 
   nav ul {
     display: inline;
+    align-content: center;
   }
 
   .contact-btn {
@@ -64,7 +68,6 @@ html, body {
     margin-right: 30px;
     padding: 8px 18px;
     border: 1px solid #204156;
-    position: relative;
     align-content: center;
   }
 
