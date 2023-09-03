@@ -11,6 +11,7 @@ html, body {
     background-image: url('https://free-images.com/lg/7038/sky_gradient_nature_color.jpg');
     background-position: center top;
     background-size: cover;
+    font-size: 14px;
     margin: 0;
   }
 
@@ -54,6 +55,7 @@ html, body {
 
   .contact-btn {
     float: right;
+    justify-content: center;
   }
 
   .contact-btn a {
