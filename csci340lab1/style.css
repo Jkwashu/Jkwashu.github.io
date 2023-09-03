@@ -65,6 +65,7 @@ html, body {
   }
 
   .contact-btn a:active {
+    justify-content: center;
     top:2px;
 
   }
