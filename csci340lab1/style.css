@@ -12,6 +12,7 @@ html, body {
     background-position: center top;
     background-size: cover;
     margin: 0;
+    font-size: 3.5em;
   }
 
   a {
