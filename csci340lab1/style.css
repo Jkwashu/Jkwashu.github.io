@@ -64,6 +64,7 @@ html, body {
     padding: 8px 18px;
     border: 1px solid #204156;
     position: relative;
+    align-content: center;
   }
 
   .contact-btn a:active {
