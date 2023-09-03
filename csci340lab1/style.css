@@ -8,7 +8,7 @@ html, body {
 
   body {
     font-family: 'Lato', sans-serif;
-    background-color:rgb(87, 242, 231);
+    background-color:rgba(13, 183, 234, 0.93);
     background-position: center top;
     background-size: cover;
     margin: 0;
@@ -55,13 +55,14 @@ html, body {
   nav li {
     display: inline;
     margin: 0;
-    padding: 0 10px;
+    padding:20px;
     align-content: center;
   }
 
   nav ul {
     display: inline;
     align-content: center;
+    padding-left:20px;
   }
 
   .contact-btn {
