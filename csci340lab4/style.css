@@ -1,0 +1,50 @@
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 20px 0;
+}
+
+.col-lg-12 {
+  text-align: center;
+  display: left;
+}
+
+.col-lg-6 {
+  text-align: center;
+  display: left;
+}
+
+#Title {
+  color:black
+  font-size = 48px;
+  padding-bottom: 20px;
+  font-style: Bold;
+  font-family:'Philosopher', sans-serif;
+}
+body {
+  background-color:cornflowerblue;
+  color:black;
+  font-family:'Philosopher', sans-serif;
+}
+h1 {
+  text-align: center;
+  display: center;
+  margin: auto;
+  margin-top: 25px;
+  padding:10px;
+}
+h2 {
+  text-align: center;
+  display: right;
+  margin: auto;
+  padding:15px;
+}
+h3 {
+  text-align: center;
+  display: right;
+  margin: auto;
+  padding: 15px;
+}
+#bible-quote {
+  margin-top: 10px;
+}
