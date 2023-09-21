@@ -6,12 +6,12 @@ img {
 
 .col-lg-12 {
   text-align: center;
-  display: left;
+  display: center;
 }
 
 .col-lg-6 {
   text-align: center;
-  display: left;
+  display: center;
 }
 
 #Title {
@@ -21,11 +21,13 @@ img {
   font-style: Bold;
   font-family:'Philosopher', sans-serif;
 }
+
 body {
   background-color:cornflowerblue;
   color:black;
   font-family:'Philosopher', sans-serif;
 }
+
 h1 {
   text-align: center;
   display: center;
@@ -33,18 +35,21 @@ h1 {
   margin-top: 25px;
   padding:10px;
 }
+
 h2 {
   text-align: center;
-  display: right;
+  display: center;
   margin: auto;
   padding:15px;
 }
+
 h3 {
   text-align: center;
-  display: right;
+  display: center;
   margin: auto;
   padding: 15px;
 }
+
 #bible-quote {
   margin-top: 10px;
 }
